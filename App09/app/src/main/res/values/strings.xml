@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App09Practis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="draw_open">draw open</string>
+    <string name="draw_close">draw close</string>
+</resources>
